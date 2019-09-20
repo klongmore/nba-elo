@@ -64,6 +64,7 @@ I retrieved statistics about NBA game results by using a python package called *
 The full list of team re-rankings (with their respective ELO) can be found below:
 
 ***2018-19***
+
 West:
 1. Houston Rockets (1334)        
 2. Golden State Warriors (1328)     
@@ -99,6 +100,7 @@ East:
 15. New York Knicks (1001)
 
 ***2017-18***
+
 West:
 1. Houston Rockets (1410)           
 2. Utah Jazz (1311)               
@@ -134,6 +136,7 @@ East:
 15. Orlando Magic (1054)
 
 ***2016-17***
+
 West:
 1. Golden State Warriors (1412)
 2. San Antonio Spurs (1331)         
@@ -169,6 +172,7 @@ East:
 15. Brooklyn Nets (1057)
 
 ***2015-16***
+
 West:
 1. Golden State Warriors (1462)    
 2. San Antonio Spurs (1416)         
@@ -204,6 +208,7 @@ East:
 15. Philadelphia 76ers (938)
 
 ***2014-15***
+
 West:
 1. Golden State Warriors (1418)     
 2. San Antonio Spurs (1355)         
