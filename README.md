@@ -5,7 +5,7 @@ Does your friend keep bragging to you that their mediocre team somehow beat your
 
 What if NBA teams were ranked by their ELO, not their W/L?
 
-***FOR A TL;DR, READ FROM 'FINDINGS' ONWARDS.
+***FOR A TL;DR, READ FROM 'FINDINGS' ONWARDS.***
 
 <br/>
 
