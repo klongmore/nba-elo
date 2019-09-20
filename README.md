@@ -1,5 +1,9 @@
 # nba-elo
-What would happen if NBA teams were ranked by ELO?
+Ever thought that your NBA team got screwed by their schedule?
+
+Does your friend keep bragging to you that their mediocre team somehow beat yours in the regular-season standings?
+
+
 
 <br/>
 
